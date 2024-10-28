@@ -1,0 +1,2 @@
+# Automation
+Daily life automation
